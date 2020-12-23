@@ -1,1 +1,3 @@
 Learning Git
+
+learning is a continuous process
