@@ -1,1 +1,3 @@
 learning SQL
+
+stucture query language
